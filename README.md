@@ -1,2 +1,2 @@
-# ML-Recipes
-This repository is based on my studies, aiming to store the implementation of models (e.g. DTs, Lgr...) from scratch.
+# Machine Learning Recipes
+O objetivo deste repositório é armazenar os códigos que produzi de maneira independente para praticar e exercitar os fundamentos do Machine Learning
