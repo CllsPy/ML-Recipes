@@ -1,3 +1,5 @@
+![](https://c4.wallpaperflare.com/wallpaper/862/449/162/jack-reacher-star-wars-interstellar-movie-john-wick-wallpaper-preview.jpg)
+
 # Sistema de Recomendação Baseado em KNN
 Um sistema de recomendação tem como objetivo prever a preferência de um usuário dado um certo item. Normalmente são feitos utilizando o algorítimo KNN por utilizar em sua estrutura afinidade entre elementos dado certas características.
 
