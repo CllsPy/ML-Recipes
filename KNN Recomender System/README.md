@@ -17,3 +17,8 @@ import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
 ```
+## Launch
+Baixe o arquivo *KNN_Recomender__System.ipynb* e abra em uma IDE de sua preferência
+
+## Authors
+Carlos L - [Github](https://github.com/CllsPy)
